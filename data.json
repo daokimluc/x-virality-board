@@ -3,8 +3,8 @@
   "date": "2026-10-27",
   "timezone": "Asia/Bangkok",
   "updated": "2026-10-27T15:39:27+07:00",
-  "brand_title": "daokimluc X Virality Score",
-  "brand_handle": "@daokimluc",
+  "brand_title": "lucdao2602 X Virality Score",
+  "brand_handle": "@lucdao2602",
   "hits": [
     {
       "id": "2114419470693507261",
@@ -1303,9 +1303,11 @@
     "self_quote_badge": true
   },
   "operator": {
-    "handle": "@daokimluc",
-    "name": "daokimluc",
-    "profile_url": "https://x.com/daokimluc"
+    "handle": "@lucdao2602",
+    "name": "lucdao2602",
+    "profile_url": "https://x.com/lucdao2602",
+    "github": "daokimluc",
+    "github_url": "https://github.com/daokimluc"
   },
   "ui": {
     "default_theme": "night"
